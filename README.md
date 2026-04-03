@@ -41,23 +41,71 @@ coffee: always ☕
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![My GitHub stats](https://github-readme-stats-opal-psi-50.vercel.app/api?username=leo300000&show_icons=true&theme=gruvbox&hide_border=true&card_width=400)
-![Top Languages](https://github-readme-stats-opal-psi-50.vercel.app/api/top-langs/?username=leo300000&theme=gruvbox&hide_border=true&layout=compact&langs_count=8)
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leo300000&theme=gruvbox" height="180"/>
 &nbsp;&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leo300000&theme=gruvbox" height="180"/>
 
 </div>
 
-@@ -106,12 +107,12 @@
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=leo300000&hide_border=true&background=150e05&stroke=f4a261&ring=ffb347&fire=e76f51&currStreakLabel=ffb347&sideLabels=ffb347&dates=a08060&currStreakNum=ffd6a5&sideNums=ffd6a5" width="500"/>
+
+</div>
+
+---
+
+## 🌙 Late Night Coding
 
 <div align="center">
 
-<img src="https://count.getloli.com/@leo300000?name=leo300000&theme=booru-vp&padding=6&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="visitor counter"/>
-<img src="https://komarev.com/ghpvc/?username=leo300000&color=f4a261&style=flat-square&label=Profile+Views" alt="profile views"/>
+<img src="https://media.giphy.com/media/tLD05H89Sokz90GAhy/giphy.gif" width="520" alt="lofi night gif"/>
 
-<br/>
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-%23F4A261.svg?style=for-the-badge&logo=amazon-aws&logoColor=150e05)
+![Azure](https://img.shields.io/badge/azure-%23E76F51.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%23FFB347.svg?style=for-the-badge&logo=terraform&logoColor=150e05)
+![Docker](https://img.shields.io/badge/docker-%23F4A261.svg?style=for-the-badge&logo=docker&logoColor=150e05)
+
+**Data & AI**
+
+![Python](https://img.shields.io/badge/python-%23FFB347.svg?style=for-the-badge&logo=python&logoColor=150e05)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E76F51.svg?style=for-the-badge&logo=apachespark&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-%23F4A261.svg?style=for-the-badge&logo=dbt&logoColor=150e05)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23FFD166.svg?style=for-the-badge&logo=jupyter&logoColor=150e05)
+
+**Dev & Tools**
+
+![Git](https://img.shields.io/badge/git-%23E76F51.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FFB347.svg?style=for-the-badge&logo=linux&logoColor=150e05)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23F4A261.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23E76F51.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=leo300000&bg_color=150e05&color=ffb347&line=f4a261&point=e76f51&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=leo300000&color=f4a261&style=flat-square&label=Profile+Views" alt="profile views"/>
 <br/><br/>
 
 *"Code is like music — it's better when it flows"* 🎶
