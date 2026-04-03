@@ -42,8 +42,9 @@ coffee: always ☕
 
 <div align="center">
 
-![My GitHub stats](https://github-readme-stats-opal-psi-50.vercel.app/api?username=leo300000&show_icons=true&theme=gruvbox&hide_border=true&card_width=400)
-![Top Languages](https://github-readme-stats-opal-psi-50.vercel.app/api/top-langs/?username=leo300000&theme=gruvbox&hide_border=true&layout=compact&langs_count=8)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leo300000&theme=gruvbox" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leo300000&theme=gruvbox" height="180"/>
 
 </div>
 
@@ -106,9 +107,9 @@ coffee: always ☕
 
 <div align="center">
 
-<img src="https://count.getloli.com/@leo300000?name=leo300000&theme=booru-vp&padding=6&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="visitor counter"/>
+<img src="https://komarev.com/ghpvc/?username=leo300000&color=f4a261&style=flat-square&label=Profile+Views" alt="profile views"/>
 
-<br/>
+<br/><br/>
 
 *"Code is like music — it's better when it flows"* 🎶
 
