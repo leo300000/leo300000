@@ -113,7 +113,7 @@ coffee: always ☕
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
 
 </div>
-<!-- Petit élément en bas à droite -->
-<div style="position: fixed; bottom: 12px; right: 12px; z-index: 999; pointer-events: none;">
-  <img src="https://media.giphy.com/media/tLD05H89Sokz90GAhy/giphy.gif" alt="mini lo-fi" width="100" style="border-radius: 14px; opacity: 0.9; filter: drop-shadow(0 0 8px rgba(0,0,0,0.45));" />
+<!-- Petit élément en bas à droite (aligné à droite dans le flux, GitHub n’autorise pas position:fixed sur README) -->
+<div align="right" style="margin-top: 8px;">
+  <img src="https://media.giphy.com/media/tLD05H89Sokz90GAhy/giphy.gif" alt="mini lo-fi" width="100" style="border-radius: 14px; opacity: 0.9;" />
 </div>
