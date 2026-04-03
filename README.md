@@ -44,7 +44,7 @@ coffee: always ☕
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leo300000&theme=gruvbox" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leo300000&theme=gruvbox" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leo300000&theme=gruvbox" height="180"/>
 
 </div>
 
