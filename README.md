@@ -115,5 +115,5 @@ coffee: always ☕
 </div>
 <!-- Petit élément en bas à droite (aligné à droite dans le flux, GitHub n’autorise pas position:fixed sur README) -->
 <div align="right" style="margin-top: 8px;">
-  <img src="https://media.giphy.com/media/tLD05H89Sokz90GAhy/giphy.gif" alt="mini lo-fi" width="100" style="border-radius: 14px; opacity: 0.9;" />
+  <img src="https://example.com/miku.png" alt="mini miku" width="100" style="border-radius: 14px; opacity: 0.9;" />
 </div>
