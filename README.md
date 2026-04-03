@@ -113,10 +113,8 @@ coffee: always ☕
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
 
 </div>
-<!-- Images en bas à gauche et à droite -->
-<div align="left" style="margin-top: 8px; display: inline-block; width: 48%;">
-  <img src="/assets/8468267_orig.png" alt="deco gauche" width="100" style="border-radius: 14px; opacity: 0.9;" />
-</div>
-<div align="right" style="margin-top: 8px; display: inline-block; width: 48%;">
-  <img src="/assets/miku.png" alt="mini miku" width="100" style="border-radius: 14px; opacity: 0.9;" />
+<!-- Images en bas à gauche et à droite sur la même ligne -->
+<div align="center" style="margin-top: 8px;">
+  <img src="/assets/8468267_orig.png" alt="deco gauche" width="100" style="border-radius: 14px; opacity: 0.9; margin-right: auto;" />
+  <img src="/assets/miku.png" alt="mini miku" width="100" style="border-radius: 14px; opacity: 0.9; margin-left: auto;" />
 </div>
