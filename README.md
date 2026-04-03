@@ -42,9 +42,9 @@ coffee: always ☕
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=leo300000&show_icons=true&hide_border=true&bg_color=150e05&title_color=ffb347&icon_color=f4a261&text_color=ffd6a5&cache_seconds=86400" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=leo300000&show_icons=true&theme=gruvbox&hide_border=true" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo300000&layout=compact&hide_border=true&bg_color=150e05&title_color=ffb347&text_color=ffd6a5&langs_count=8&cache_seconds=86400" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo300000&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" height="180"/>
 
 </div>
 
